@@ -1,0 +1,25 @@
+Proyectos: Bomberman
+
+Investigar:
+- Game loop: bucle infinito que escucha lo que pasa en pantalla (es necesario 
+- Tile
+- Colisiones
+
+Proyecto: en este proyecto realizaremos una reversion del clasico juego Bomberman lanzado en el año 1983 para PC.
+El juego trata de un personaje que inicia en un punto random del mapa y que se va a abriendo camino haciendo uso de bombas para derrivar obstaculos y otros personajes que aparecen dentro del entorno. El objetivo es llegar a la puerta de salida que se encuentra tambien en una posicion random dentro del mapa. Van a ser 3 niveles, donde en cada uno aumenta la dificultad.
+Para sumar puntos se puede recolectar bonus que estan distribuidos en el mapa o matando enemigos. 
+Para vencer a los enemigos tambien se puede recolectar habilidades especiales que nos dan mayor potencia en las explosiones de nuestras bombas.
+Al finalizar el juego se detallan el puntaje obtenido en cada nivel, el tiempo, los bonus recolectados, la fecha de la partida y el nombre dle jugador. Se guarda todo en un ranking.
+
+Funcionalidades:
+1. Menu: Juego nuevo, Ranking y Configuracion
+2. Configuracion: sonido ON/OFF
+3. Juego Nuevo: empieza una partida desde el nivel 1 y va aumentando de dificultad al pasar de nivel. Te da la opcion de elegir el personaje con quien jugar.
+4. Al finalizar el modo campaña muestra un historial con la puntuacion obtenida, el nivel alcanzado, el tiempo que tardo, la fecha en que jugo y el nombre del jugador.
+5. Ranking: muestra el historial de partidas jugadas anteriormente
+
+
+
+
+
+
